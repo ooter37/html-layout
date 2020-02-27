@@ -1,0 +1,39 @@
+#grey-bar {
+    height: 100px;
+    width: 100%;
+    background-color: #d8d8d8;
+} 
+#blue-box {
+    float: left;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    background-color: #4a90e2;
+} 
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 480px;
+}
+#blue-bar {
+    height: 25%;
+    width: 100%;
+    background-color: #4a90e2;
+} 
+#teal-bar {
+    height: 25%;
+    width: 100%;
+    background-color: #50e3c2;
+} 
+#olive-bar {
+    height: 25%;
+    width: 100%;
+    background-color: #b8e986;
+} 
+#yellow-bar {
+    height: 25%;
+    width: 100%;
+    background-color: #f8e71c;
+} 

@@ -1,0 +1,24 @@
+header {
+    background-color: #444444;
+    height: 17vh;
+}
+
+body {
+    background-color: #D8D8D8;
+}
+
+.div1 {
+    width: 68%;
+    height: 100vh;
+    background-color: #EFEFEF;
+    margin: auto;  
+}
+
+.div2 {
+    position: fixed; 
+    bottom: 0;
+    width: 68%;
+    background-color: #222222;
+    height: 10vh;
+    left: 16%;
+}
